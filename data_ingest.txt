@@ -5,4 +5,4 @@ I am ingesting  more data.
 I am ingesting batch data
 I am a serious developer
 Bug fixed - finally.
-Another bug
+Another bug - fixed
